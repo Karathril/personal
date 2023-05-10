@@ -1,13 +1,21 @@
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(58,156,155,1) 29%, rgba(0,212,255,1) 100%);
+}
+
 .container {
-    max-width: 800px; /* ajusta el valor según tus necesidades */
+    max-width: 800px;
     margin: 0 auto;
 }
 
-/* pepe */
+.container #paginacion{
+    text-align: center;
+}
+  
+.container #paginacion .btn-group{
+    margin: 25px;
+}
 
-  
-  
-  
   
   
   
