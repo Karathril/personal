@@ -1,6 +1,6 @@
 body{
-    background: rgb(2,0,36);
-    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(58,156,155,1) 29%, rgba(0,212,255,1) 100%);
+    background-image: url(Images/wallpaper.png);
+    margin: auto;
 }
 
 .container {
@@ -16,6 +16,19 @@ body{
     margin: 25px;
 }
 
+#datos button{
+    float: right;
+}
+
+.det_personaje{
+    text-align: center;
+    padding-top: 25px;
+}
   
+.det_personaje img{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
   
+
   
